@@ -5,7 +5,7 @@
 cd
 cd whonix-i3
 
-7z x candy-icons.7z -ocandy-icons
+#7z x candy-icons.7z -ocandy-icons
 sudo cp -r candy-icons /usr/share/icons/
 
 
